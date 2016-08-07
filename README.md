@@ -21,3 +21,10 @@ static void Main(string[] args)
     Console.ReadLine();
 }
 ```
+
+Output
+
+```
+4321 9876 43214321
+1111 1234 2222 3333
+```
