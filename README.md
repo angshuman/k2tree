@@ -1,4 +1,4 @@
-# k2tree
+# k2 tree
 A simple implementation of the k2tree in C#.
 
 k2tree provides as easy way to have a two way lookup table in one data structure. Useful for storing vertically partitioned RDF triples.
